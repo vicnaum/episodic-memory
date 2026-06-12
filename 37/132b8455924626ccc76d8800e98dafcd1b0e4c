@@ -1,0 +1,19 @@
+src/summarizer.ts
+  s_b050624b70c4eb::t_098749cc41ccda 489-496
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "37132b8455924626ccc76d8800e98dafcd1b0e4c",
+  "prompts": {},
+  "sessions": {
+    "s_b050624b70c4eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d081cee-6423-4cc7-8d97-a60d2aa83e00",
+        "model": "claude-fable-5"
+      },
+      "human_author": "vicnaum <vicnaum@gmail.com>"
+    }
+  }
+}
