@@ -1,0 +1,31 @@
+src/sync.ts
+  s_b050624b70c4eb::t_f8df3b8422c6b9 23-61
+  s_b050624b70c4eb::t_7768e1553c8559 163-169
+test/sync.test.ts
+  s_b050624b70c4eb::t_f4aa0ef278bf6b 84
+  s_b050624b70c4eb::t_f7986883b182c9 134-150
+  s_b050624b70c4eb::t_14920363e71013 238-241,246,249-250
+  s_b050624b70c4eb::t_74f2099833cd6b 76
+  s_b050624b70c4eb::t_498327667cc10e 46
+  s_b050624b70c4eb::t_0a9628cc9d316c 98-100
+  s_b050624b70c4eb::t_837b81d6272e90 61
+  s_b050624b70c4eb::t_9cecb467cd5cc7 9-14
+  s_b050624b70c4eb::t_20516159925ce3 110
+  s_b050624b70c4eb::t_68f89939f49960 122-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "78691122bc2e32dbf9b699e74f730799919db2a7",
+  "prompts": {},
+  "sessions": {
+    "s_b050624b70c4eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d081cee-6423-4cc7-8d97-a60d2aa83e00",
+        "model": "claude-fable-5"
+      },
+      "human_author": "vicnaum <vicnaum@gmail.com>"
+    }
+  }
+}
