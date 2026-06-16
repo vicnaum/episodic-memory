@@ -1,0 +1,24 @@
+src/show.ts
+  s_b050624b70c4eb::t_c1d8987bccfa09 41-44
+  s_b050624b70c4eb::t_bb4a7e9e2ee65f 237-240
+  s_b050624b70c4eb::t_d691b9e684de27 791-807
+  s_b050624b70c4eb::t_7c8cde238eff22 970-1029
+test/show.test.ts
+  s_b050624b70c4eb::t_2dd56204feda77 272-321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "296e7bac3b4876b09bc23d137872e1189c8d3d0a",
+  "prompts": {},
+  "sessions": {
+    "s_b050624b70c4eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d081cee-6423-4cc7-8d97-a60d2aa83e00",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "vicnaum <vicnaum@gmail.com>"
+    }
+  }
+}
